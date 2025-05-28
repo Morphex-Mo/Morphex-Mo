@@ -33,7 +33,7 @@ Relevant Coursework: Java Programming, Machine Learning (self-directed)
 Languages:   Java (Proficient), Python, C++  
 Tools:       Git  
 Concepts:    Machine Learning • CNNs • Attention Mechanisms  
-Languages:   English (Fluent) • Japanese(Learning) Mandarin (Native)  
+Languages:   English (Fluent) • Japanese(Learning) • Mandarin (Native)  
 🏆 Recognitions
 • Intelligent Innovation Competition - 2nd Prize
 • Outreach Program - Outstanding Individual & Team Award
