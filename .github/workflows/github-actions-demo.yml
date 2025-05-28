@@ -2,15 +2,15 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 0 点运行（北京时间 8:00）
-  workflow_dispatch:     # 允许手动触发
+    - cron: '0 0 * * *'  # 每天 UTC 0 点运行
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # 必须添加写入权限
+      contents: write  # 必须的写入权限
     
     steps:
       - name: Checkout repository
