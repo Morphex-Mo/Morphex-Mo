@@ -62,7 +62,13 @@ Key features:
 - ✨ Professional yet personal tone  
 - 📱 Mobile-responsive structure  
 
-![image](https://github.com/user-attachments/assets/60c338ce-875a-4318-a1aa-b2dfeaa1fe7f)
+# 我的二次元项目 🌈
+
+> 代码の力を信じて！  
+<img src="https://media.giphy.com/media/12TZXEURLhbefu/giphy.gif" width="150">
+
+开发日常：  
+![编程喵](https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif)
  All personal identifiers are generalized while preserving your achievements and personality!
 
 
