@@ -2,18 +2,32 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # 每天 UTC 0 点运行
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 必须添加写入权限
+      
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # 重要设置
+
+      - name: Update README with WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 改为使用 GITHUB_TOKEN
+          
+          # 确保至少开启一个显示选项
+          SHOW_LANGUAGE: "True"  # 显示语言统计
+          
+          # 您的其他设置
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
@@ -25,3 +39,8 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
+          
+          # 添加提交配置
+          COMMIT_MESSAGE: "📊 Updated WakaTime Stats"
+          COMMIT_USERNAME: "GitHub Actions"
+          COMMIT_EMAIL: "actions@github.com"
