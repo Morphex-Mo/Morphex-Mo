@@ -1,6 +1,6 @@
 **Hi there** 👋
 
-
+This is a sophomore student in SUSTech.
 
 
 
