@@ -62,8 +62,7 @@ Let's connect and build something impactful! 🤝
 
   <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats-ten-dusky-26.vercel.app/api?username=TonyMo0310&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="mxm's Stats" width="395" />
-  <img src="https://github-readme-stats-ten-dusky-26.vercel.app/api/top-langs/?username=TonyMo0310&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="mxm's Top Languages" width="300" />
-</div>
+
 
 
 
