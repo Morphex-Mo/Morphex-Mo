@@ -54,23 +54,14 @@ Sports Banner
 Let's connect and build something impactful! 🤝
 
 
-Key features:  
-- 🔒 Protected sensitive info (name/GPA omitted)  
-- 🏀 Integrated all sports interests naturally  
-- 💻 Maintained technical credibility  
-- 🎨 README-friendly formatting with emojis  
-- ✨ Professional yet personal tone  
-- 📱 Mobile-responsive structure  
+<!-- 经典甩葱歌 -->
+![Miku Dancing](https://media.giphy.com/media/psneItdLMpWy0/giphy.gif)
 
-# 我的二次元项目 🌈
+<!-- 舞台表演版 -->
+<img src="https://media.tenor.com/2sXdb7x2iD0AAAAC/hatsune-miku-vocaloid.gif" width="300">
 
-> 代码の力を信じて！  
-<img src="https://media.giphy.com/media/12TZXEURLhbefu/giphy.gif" width="150">
-
-开发日常：  
-![编程喵](https://media.giphy.com/media/VGACXbkf0AeGs/giphy.gif)
- All personal identifiers are generalized while preserving your achievements and personality!
-
+<!-- 可爱眨眼 -->
+![Miku Wink](https://i.gifer.com/origin/0e/0e3b9b2e0e8d0e5e0e8d0e5e0e8d0e5e.gif)
 
 
 
