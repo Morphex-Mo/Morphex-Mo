@@ -57,7 +57,7 @@ Let's connect and build something impactful! 🤝
 
             
   
-  
+  ![明日香跳舞动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmNXhmbG93ZDB1Mms0eGFqMHZpZXhsZzV0d2lycDI4d3I3Y3ZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif)
   
   
   
@@ -114,3 +114,5 @@ No Activity Tracked This Week
 
 
   ![魔王邪眼小鸟游六花动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lvdGh0bG9qZ3VnZzlmdnY2djduaXBmaGl1cm1tMWluMHRmcjczYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif)    
+  
+
