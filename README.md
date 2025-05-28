@@ -30,7 +30,6 @@ Relevant Coursework: Java Programming, Machine Learning (self-directed)
 ▸ Awarded for team coordination and Q&A design  
 
 ## ⚙️ Technical Toolkit  
-```python
 Languages:   Java (Proficient), Python, C++
 Tools:       Git
 Concepts:    Machine Learning • CNNs • Attention Mechanisms
@@ -63,7 +62,8 @@ Key features:
 - ✨ Professional yet personal tone  
 - 📱 Mobile-responsive structure  
 
-The GIF link shows sports activity (customizable). All personal identifiers are generalized while preserving your achievements and personality!
+![image](https://github.com/user-attachments/assets/60c338ce-875a-4318-a1aa-b2dfeaa1fe7f)
+ All personal identifiers are generalized while preserving your achievements and personality!
 
 
 
