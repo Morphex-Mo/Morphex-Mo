@@ -1,21 +1,51 @@
-name: Update README
+name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天 UTC 0 点运行
-  workflow_dispatch:  # 支持手动触发
+    - cron: "0 0 * * *"  # 每天 UTC 0 点运行（北京时间 8:00）
+  workflow_dispatch:     # 允许手动触发
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Generate stats
-        run: python generate_stats.py
-      - name: Commit changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "📊 Auto-update README"
-          git push
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # 重要！否则推送会失败
+
+      - name: Update README with WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          # 🔑 必需参数
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # WakaTime API Key
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}             # GitHub 自动生成的 Token
+
+          # 📅 基础显示配置
+          SHOW_TITLE: "True"                # 显示标题 "📊 Weekly Development Breakdown"
+          SHOW_TOTAL_CODE_TIME: "True"     # 显示总编码时间
+          SHOW_DAYS_OF_WEEK: "True"        # 显示一周活动分布
+          SHOW_EDITORS: "True"             # 显示常用编辑器
+          SHOW_LANGUAGE: "True"            # 显示编程语言
+          SHOW_OS: "True"                  # 显示操作系统
+          SHOW_PROJECTS: "True"            # 显示项目统计
+          SHOW_TIMEZONE: "True"            # 显示时区
+
+          # 🎨 高级配置
+          SHOW_LOC_CHART: "False"          # 代码行数图表（默认关闭）
+          SHOW_LANGUAGE_PER_REPO: "False"  # 按仓库显示语言（默认关闭）
+          SHOW_PROFILE_VIEWS: "False"      # GitHub Profile 访问量（需要额外配置）
+          SHOW_COMMIT: "False"            # 显示提交次数（需要 Git 历史）
+
+          # ✏️ 文本自定义
+          SECTION_NAME: "My Coding Stats"  # README 中标题名称
+          COMMIT_MESSAGE: "📊 Update WakaTime Stats"  # 提交信息
+          TIMEZONE: "Asia/Shanghai"        # 时区（默认 UTC）
+
+          # 🔧 调试选项
+          DEBUG_LOGGING: "False"           # 开启详细日志（调试用）
+
+      # 可选：添加一个完成状态提示
+      - name: Notify Success
+        if: success()
+        run: echo "✅ README 更新成功！"
