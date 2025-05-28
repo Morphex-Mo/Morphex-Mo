@@ -1,8 +1,32 @@
-- name: WakaTime Stats
-  uses: athul/waka-readme@master
-  with:
-    WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-    SHOW_TITLE: false
-    SHOW_TIME: true
-  env:
-    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天 UTC 0 点运行
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update README with WakaTime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: false
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_LANGUAGE: true
+          LOCALE: zh_CN  # 中文显示
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
