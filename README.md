@@ -41,21 +41,21 @@ Languages:   English (Fluent) • Mandarin (Native)
 
 ⚽️ Beyond the Keyboard
 When not coding, you'll find me:
-▸ Driving to the basket on basketball courts 🏀
-▸ Smashing birdies at badminton courts 🏸
-▸ Doing laps in the swimming pool 🏊‍♂️
-▸ Cheering during late-night football matches ⚽️
-▸ Exploring computer audio technology 🎧
-
+▸ Driving to the basket on basketball courts 🏀  
+▸ Smashing birdies at badminton courts 🏸  
+▸ Doing laps in the swimming pool 🏊‍♂️  
+▸ Cheering during late-night football matches ⚽️  
+▸ Exploring computer audio technology 🎧  
+  
 "Balancing algorithmic precision with athletic energy –
-where logic meets passion" 🌈
+where logic meets passion" 🌈  
 
-Sports Banner
-Let's connect and build something impactful! 🤝
-
-
+Sports Banner  
+Let's connect and build something impactful! 🤝  
 
 
+
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lvdGh0bG9qZ3VnZzlmdnY2djduaXBmaGl1cm1tMWluMHRmcjczYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif
 
 
 <!--START_SECTION:waka-->
