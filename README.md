@@ -54,14 +54,7 @@ Sports Banner
 Let's connect and build something impactful! 🤝
 
 
-<!-- 赛博未来风 -->
-[![Cyber Miku](https://media4.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif)]()
 
-<!-- 演唱会现场 -->
-<img src="https://64.media.tumblr.com/5b8c3f5f3f3c5a0d0b4e4e4e4e4e4e4e/tumblr_n0yjr5YjXz1qio469o1_500.gifv" width="400">
-
-<!-- Q版萌系 -->
-![Chibi Miku](https://thumbs.gfycat.com/BlissfulAggressiveHapuku-size_restricted.gif)
 
 
 
