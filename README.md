@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-<!-- 这里会自动插入编程统计 -->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
