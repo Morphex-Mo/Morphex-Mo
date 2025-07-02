@@ -73,8 +73,6 @@ Let's connect and build something impactful! 🤝
             
           
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -115,7 +113,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/07/2025 01:57:09 UTC
+ Last Updated on 02/07/2025 01:46:38 UTC
 <!--END_SECTION:waka-->
 
 
