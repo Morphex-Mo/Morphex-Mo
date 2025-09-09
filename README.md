@@ -73,10 +73,15 @@ Let's connect and build something impactful! 🤝
             
           
   <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
-```txt
-No activity tracked
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
 ```
+
 
 <!--END_SECTION:waka-->
 
