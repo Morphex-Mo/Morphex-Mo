@@ -73,49 +73,11 @@ Let's connect and build something impactful! 🤝
             
           
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-🌆 Daytime                70 commits          ████████░░░░░░░░░░░░░░░░░   31.53 % 
-🌃 Evening                70 commits          ████████░░░░░░░░░░░░░░░░░   31.53 % 
-🌙 Night                  75 commits          ████████░░░░░░░░░░░░░░░░░   33.78 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   38 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Tuesday                  35 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Wednesday                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Thursday                 72 commits          ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Friday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Sunday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+```txt
+No activity tracked
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 17/07/2025 01:52:42 UTC
 <!--END_SECTION:waka-->
 
 
