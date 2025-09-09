@@ -6,13 +6,13 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@v4.3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}   # 这里一定要是你刚刚加的 secret
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: Morphex-Mo/TonyMo0310
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
