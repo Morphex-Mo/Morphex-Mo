@@ -73,8 +73,6 @@ Let's connect and build something impactful! 🤝
             
           
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -127,7 +125,7 @@ Assembly                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 01:53:08 UTC
+ Last Updated on 16/10/2025 01:51:36 UTC
 <!--END_SECTION:waka-->
 
 
