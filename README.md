@@ -4,7 +4,8 @@
 
 ## 🎓 Education  
 **Bachelor of Engineering in Computer Science**  
-Southern University of Science and Technology (2023-Present)  
+Southern University of Science and Technology (2023-2025)  
+The Hong Kong Polytechnic University (2025-Present)  
 Relevant Coursework: Java Programming, Machine Learning (self-directed)  
 *"Transforming curiosity into code"* ✨  
 
