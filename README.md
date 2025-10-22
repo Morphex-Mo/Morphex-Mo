@@ -1,5 +1,8 @@
-**Hi there** 👋
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=bf91f3&size=30&center=true&vCenter=true&width=500&height=35&lines=Welcome!;+I'm+Hok+Lay+Heng+郝利興!)](https://git.io/typing-svg)
 
+</h1>
 # Tech Enthusiast & Computer Science Student 👨‍💻
 
 ## 🎓 Education  
