@@ -61,18 +61,13 @@
 体育横幅  
 让我们连接并构建有影响力的东西！ 🤝  
 
-  ![明日香跳舞动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmNXhmbG93ZDB1Mms0eGFqMHZpZXhsZzV0d2lycDI4d3I3Y3ZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif)
+
+
+   ![明日香跳舞动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmNXhmbG93ZDB1Mms0eGFqMHZpZXhsZzV0d2lycDI4d3I3Y3ZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif)
   
 
   <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats-ten-dusky-26.vercel.app/api?username=TonyMo0310&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="mxm's Stats" width="350" />
-
-  <!--END_SECTION:waka-->
-
-
-
-
-  ![魔王邪眼小鸟游六花动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lvdGh0bG9qZ3VnZzlmdnY2djduaXBmaGl1cm1tMWluMHRmcjczYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif)  
 
 
 
@@ -83,4 +78,11 @@
 
             
           
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+
+
+  ![魔王邪眼小鸟游六花动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lvdGh0bG9qZ3VnZzlmdnY2djduaXBmaGl1cm1tMWluMHRmcjczYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif)    
