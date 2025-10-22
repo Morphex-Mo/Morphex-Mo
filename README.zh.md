@@ -1,3 +1,8 @@
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=bf91f3&size=30&center=true&vCenter=true&width=500&height=35&lines=Welcome!;+I'm+M0rphex+莫晓喵!)](https://git.io/typing-svg)
+
+</h1>
 
 
 [English](README.md) | [中文](README.zh.md) | [日本語](README.jp.md)
