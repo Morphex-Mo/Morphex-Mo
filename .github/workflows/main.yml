@@ -1,7 +1,7 @@
 name: Waka Readme
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 0:00（想 IST 凌晨改成 '30 18 * * *'）
+    - cron: '0 0 * * *'  # 每天 UTC 0:00（IST 凌晨改 '30 18 * * *'）
   workflow_dispatch:
 
 jobs:
@@ -14,21 +14,24 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # GH_TOKEN 不需要！直接删掉，避免任何 401
+          # GH_TOKEN: 不需要，删掉避免 401
           
-          # 下面这些选项几乎全开，显示超级丰富（进度条超美）
-          SHOW_TITLE: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_DAYS_OF_WEEK: true
-          SHOW_LANGUAGE: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_TIMEZONE: true
-          SHOW_LINES_OF_CODE: true      # 总代码行数（稳如老狗，不会超时）
-          SHOW_PROFILE_VIEWS: false     # 按你原来的设置
-          SHOW_COMMITS: true            # Commit 统计（比 anmol 版准）
-          SHOW_SHORT_INFO: true
-          LOCALE: en
-          BLOCKS: ░▒▓█                  # 进度条样式（最经典好看，可改 ▣▢ 或 ⬛⬜）
-          SECTION_NAME: waka            # README 里用 <!--START_SECTION:waka--> ... <!--END_SECTION:waka-->
+          # 有效参数：开启尽可能多功能
+          SHOW_TITLE: true                 # 显示标题
+          SECTION_NAME: waka               # 匹配 README 占位
+          BLOCKS: ░▒▓█                     # 进度条样式（经典好看）
+          CODE_LANG: en                    # 代码语言显示为英文
+          TIME_RANGE: last_7_days          # 时间范围：最近7天（默认 all_time，可改 last_30_days）
+          LANG_COUNT: 10                   # 显示前10种语言
+          SHOW_TIME: true                  # 显示具体时间
+          SHOW_TOTAL: true                 # 显示总编码时间
+          SHOW_MASKED_TIME: false          # 不隐藏时间（设 true 模糊显示）
+          STOP_AT_OTHER: true              # 其他语言停止显示
+          # 忽略语言示例：IGNORED_LANGUAGES: >-  # 如需忽略：Bash,Markdown
+          COMMIT_MESSAGE: "Update WakaTime Stats"  # Commit 消息
+          TARGET_BRANCH: main              # 目标分支
+          TARGET_PATH: README.md           # 更新文件
+          COMMITTER_NAME: Your GitHub Username  # Committer 名（替换为你用户名）
+          COMMITTER_EMAIL: your.email@example.com  # Committer 邮箱（替换为你的）
+          AUTHOR_NAME: Your GitHub Username     # Author 名
+          AUTHOR_EMAIL: your.email@example.com  # Author 邮箱
