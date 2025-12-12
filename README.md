@@ -80,9 +80,10 @@ Let's connect and build something impactful! 🤝
           
   <!--START_SECTION:waka-->
 
-
-```txt
+```en
 From: 04 December 2025 - To: 11 December 2025
+
+Total Time: 0 secs
 
 No activity tracked
 ```
