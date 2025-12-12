@@ -92,11 +92,7 @@ No activity tracked
 
 
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats-git-main-kyronsatt.vercel.app/api?username=Morphex-Mo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Morphex-Mo's Stats" width="450" />
- 
-  <img src="https://github-readme-stats-git-main-kyronsatt.vercel.app/api/top-langs?username=Morphex-Mo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Morphex-Mo's Top Languages" width="350" />
-</div>
+
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg#gh-dark-mode-only)
 ![Snake Animation](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.gif)
