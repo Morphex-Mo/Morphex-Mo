@@ -98,6 +98,11 @@ No activity tracked
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TonyMo0310&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="TonyMo0310's Top Languages" width="350" />
 </div>
 
-  ![魔王邪眼小鸟游六花动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lvdGh0bG9qZ3VnZzlmdnY2djduaXBmaGl1cm1tMWluMHRmcjczYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif)    
+![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg#gh-dark-mode-only)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg?palette=github-light#gh-light-mode-only)
+
+![Snake Animation](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.gif)
+
+![魔王邪眼小鸟游六花动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lvdGh0bG9qZ3VnZzlmdnY2djduaXBmaGl1cm1tMWluMHRmcjczYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif)    
   
 
