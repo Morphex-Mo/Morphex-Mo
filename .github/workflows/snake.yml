@@ -19,10 +19,10 @@ jobs:
             dist/snake-light.svg?palette=github-light
             dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Deploy to GitHub Pages (output branch)
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}   # ← 必须这一行！用你仓库里名为 GH_PAT 的 secret
+          GH_PAT: ${{ secrets.GH_PAT }}   # ← 关键！必须完整写成这样
