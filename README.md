@@ -13,6 +13,7 @@
 Southern University of Science and Technology (2023-2025)  
 The Hong Kong Polytechnic University (2025-2026)  
 The Hong Kong Polytechnic University (2026-Present)
+
 Relevant Coursework: Java Programming, Machine Learning (self-directed)  
 *"Transforming curiosity into code"* ✨  
 
