@@ -82,11 +82,12 @@ Let's connect and build something impactful! 🤝
   <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2025 - To: 27 January 2026
+From: 28 May 2025 - To: 28 January 2026
 
-Total Time: 0 secs
+Total Time: 30 mins
 
-No activity tracked
+Java   29 mins         ████████████████████████░   96.52 %
+JSON   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
