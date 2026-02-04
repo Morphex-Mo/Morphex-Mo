@@ -32,20 +32,44 @@ Relevant Coursework: Java Programming, Machine Learning (self-directed)
 **Java Puzzle Game** (11/2023)  
 ▸ Co-created matching game selected for class showcase 🎮  
 
+**RISC-V CPU Design** (2024-2025)  
+▸ Designed and implemented a functional CPU from scratch using Verilog and RISC-V ISA  
+▸ Successfully executed basic arithmetic and logic operations  
+
+**Cross-Cultural Translation AI** (2025)  
+▸ Developed an AI-powered translation tool that provides context-aware translations and cultural adaptation suggestions  
+▸ Integrated advanced NLP techniques to handle nuanced language scenarios  
+
+**Networked Blockchain Simulation** (2025)  
+▸ Built a secure, simulated blockchain transaction system using socket programming on a Docker platform  
+▸ Implemented core networking and cryptographic concepts learned in computer networks course  
+
+**Danmaku-Style Game Development** (2025)  
+▸ Collaborated with peers to design and develop an engaging danmaku (bullet-hell) game  
+▸ Received positive feedback from faculty for creative design and smooth gameplay  
+
+**Range Hood Control System Simulation** (2024)  
+▸ Collaborated in a team to simulate a full-featured range hood control system using Verilog  
+▸ Perfectly implemented all required operational functionalities  
+
 ## 🌟 Leadership & Activities  
 **University Outreach Program** (01/2024)  
 ▸ Presented campus life sessions to prospective students 🎤  
 ▸ Awarded for team coordination and Q&A design  
 
 ## ⚙️ Technical Toolkit  
-Languages:   Java (Proficient), Python, C++  
-Tools:       Git  
-Concepts:    Machine Learning • CNNs • Attention Mechanisms  
-Languages:   English (Fluent) • Japanese(Learning) • Mandarin (Native)  
-🏆 Recognitions
-• Intelligent Innovation Competition - 2nd Prize
-• Outreach Program - Outstanding Individual & Team Award
-• Course Project - Top-Tier Class Showcase Selection
+**Languages:** Java (Proficient), Python, C++, Verilog, RISC-V Assembly  
+**Tools:** Git, Docker, Socket Programming  
+**Concepts:** Machine Learning • CNNs • Attention Mechanisms • Computer Architecture • Blockchain • Game Development • NLP  
+**Languages:** English (Fluent) • Japanese (Learning) • Mandarin (Native)  
+
+## 🏆 Recognitions  
+• Intelligent Innovation Competition - 2nd Prize  
+• Outreach Program - Outstanding Individual & Team Award  
+• Course Project - Top-Tier Class Showcase Selection  
+• Digital Design Course - Perfect Implementation Award for Range Hood System  
+• Computer Architecture Project - Excellence in CPU Design  
+• Software Engineering Course - Faculty Commendation for Game Development
 
 ⚽️ Beyond the Keyboard
 When not coding, you'll find me:  
