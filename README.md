@@ -106,13 +106,13 @@ Let's connect and build something impactful! 🤝
   <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2025 - To: 09 February 2026
+From: 28 May 2025 - To: 10 February 2026
 
-Total Time: 1 hr 49 mins
+Total Time: 1 hr 59 mins
 
-Java   1 hr 42 mins    ███████████████████████▒░   93.74 %
-C++    5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-JSON   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Java   1 hr 52 mins    ███████████████████████▓░   94.28 %
+C++    5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+JSON   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
