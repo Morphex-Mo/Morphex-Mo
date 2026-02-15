@@ -106,7 +106,7 @@ Let's connect and build something impactful! 🤝
   <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2025 - To: 12 February 2026
+From: 28 May 2025 - To: 13 February 2026
 
 Total Time: 2 hrs 19 mins
 
