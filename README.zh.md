@@ -98,11 +98,17 @@
   
   ![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg?palette=github-light#gh-light-mode-only)
   
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.gif" alt="Snake Animation" width="100%">
-  
   <br><br>
   
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lvdGh0bG9qZ3VnZzlmdnY2djduaXBmaGl1cm1tMWluMHRmcjczYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" alt="魔王邪眼小鸟游六花" width="300">
 </div>
+
+---
+
+## 🌐 多语言自我介绍 | Multi-language Self-introduction | 多言語自己紹介
+
+- [English](README.md)
+- [中文](README.zh.md)
+- [日本語](README.jp.md)
+
+---
