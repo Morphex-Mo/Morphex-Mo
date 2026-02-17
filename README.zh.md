@@ -95,6 +95,12 @@
   </div>
   
   <br>
+
+<!--START_SECTION:waka-->
+<!-- 下方为你最近7天的编程统计，由 waka-readme action 自动刷新 -->
+<!--END_SECTION:waka-->
+
+  <br><br>
   
   ![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg#gh-dark-mode-only)
   
@@ -110,5 +116,3 @@
 - [English](README.md)
 - [中文](README.zh.md)
 - [日本語](README.jp.md)
-
----
