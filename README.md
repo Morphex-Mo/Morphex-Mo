@@ -71,7 +71,7 @@ Relevant Coursework: Java Programming, Machine Learning (self-directed)
 • Computer Architecture Project - Excellence in CPU Design  
 • Software Engineering Course - Faculty Commendation for Game Development
 
-⚽️ Beyond the Keyboard
+⚽️ Beyond the Keyboard  
 When not coding, you'll find me:  
 ▸ Driving to the basket on basketball courts 🏀  
 ▸ Smashing birdies at badminton courts 🏸  
@@ -79,31 +79,32 @@ When not coding, you'll find me:
 ▸ Cheering during late-night football matches ⚽️  
 ▸ Exploring computer audio technology 🎧  
   
-"Balancing algorithmic precision with athletic energy –
+"Balancing algorithmic precision with athletic energy –  
 where logic meets passion" 🌈  
+
+---
+
+## 🌐 语言 / Language / 言語  
+> **点击下方对应语言可查看该自我介绍多语言版本。**  
+> **Click below for introductions in other languages.**  
+> **下記のリンクから各言語の自己紹介をご覧ください。**
+
+- [English (README.md)](README.md)
+- [中文 (README.zh.md)](README.zh.md)
+- [日本語 (README.jp.md)](README.jp.md)
+
+---
 
 Sports Banner  
 Let's connect and build something impactful! 🤝  
 
+![明日香跳舞动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmNXhmbG93ZDB1Mms0eGFqMHZpZXhsZzV0d2lycDI4d3I3Y3ZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif)
 
-            
-  
-  ![明日香跳舞动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmNXhmbG93ZDB1Mms0eGFqMHZpZXhsZzV0d2lycDI4d3I3Y3ZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif)
-  
-
-  <div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats-ten-dusky-26.vercel.app/api?username=TonyMo0310&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="mxm's Stats" width="350" />
+</div>
 
-
-
-
-
-
-
-
-            
-          
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```txt
 From: 28 May 2025 - To: 15 February 2026
@@ -124,13 +125,6 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-
-
-
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg#gh-dark-mode-only)
-![Snake Animation](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.gif)
 
 ![魔王邪眼小鸟游六花动图](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lvdGh0bG9qZ3VnZzlmdnY2djduaXBmaGl1cm1tMWluMHRmcjczYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif)    
-  
-
