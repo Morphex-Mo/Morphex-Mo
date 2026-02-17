@@ -18,7 +18,7 @@
 
 #### 🎓 Education
 - **Southern University of Science and Technology (SUSTech)**  
-  B.Eng. in Computer Science and Technology (09/2023-06/2025, 01/2026-Present, GPA 3.23/4.0)
+  B.Eng. in Computer Science and Technology (09/2023-06/2025, 01/2026-Present)
 - **The Hong Kong Polytechnic University (PolyU)**  
   BSc(Hons) in Computer Science (08/2025-12/2025)  
   *Relevant Coursework: Java Programming, Machine Learning, Game Designing*
@@ -80,7 +80,7 @@
 
 #### 🎓 教育经历
 - **南方科技大学（SUSTech）**
-  计算机科学与技术本科生（2023.09-2025.06，2026.01-至今，GPA 3.23/4.0）
+  计算机科学与技术本科生（2023.09-2025.06，2026.01-至今）
 - **香港理工大学（PolyU）**
   计算机科学荣誉理学士（2025.08-2025.12）  
   *核心课程：Java编程、机器学习、游戏设计*
@@ -142,7 +142,7 @@
 
 #### 🎓 学歴
 - **南方科技大学（SUSTech）**
-  コンピュータサイエンス学士（2023年9月-2025年6月／2026年1月-現在，GPA 3.23/4.0）
+  コンピュータサイエンス学士（2023年9月-2025年6月／2026年1月-現在）
 - **香港理工大学（PolyU）**
   コンピュータサイエンス学士（2025年8月-2025年12月）
   *主要科目：Javaプログラミング・機械学習・ゲーム設計*
