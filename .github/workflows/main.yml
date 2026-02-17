@@ -1,7 +1,7 @@
 name: Waka Readme
 on:
   schedule:
-    - cron: '0 0 * * *'  # UTC 0:00，想 IST 凌晨改 '30 18 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,9 +16,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: 🔵🟢🟡🟠🔴  # 五色的 Emoji 条
+          BLOCKS: ▁▂▃▄▅▆▇█
           TIME_RANGE: last_7_days
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
           COMMIT_MESSAGE: "Update WakaTime stats"
+          TARGET: "README.md,README.zh.md,README.jp.md"  # <--- 关键点
