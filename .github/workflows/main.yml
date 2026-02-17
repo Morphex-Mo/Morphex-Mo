@@ -14,11 +14,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # GH_TOKEN 不需要！删掉这行
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ░▒▓█  # 进度条样式
-          TIME_RANGE: all_time  # 或 last_7_days
+          BLOCKS: ▁▂▃▄▅▆▇█  # 彩色进度条样式
+          TIME_RANGE: last_7_days
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
