@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ▁▂▃▄▅▆▇█
+          BLOCKS: 🔵🟢🟡🟠🔴  # 五色的 Emoji 条
           TIME_RANGE: last_7_days
           LANG_COUNT: 10
           SHOW_TIME: true
