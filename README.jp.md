@@ -97,7 +97,7 @@
   <br>
   
   ![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg#gh-dark-mode-only)
-  ![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg?palette=github-light#gh-light-mode-only)
+
   
   <br>
   
