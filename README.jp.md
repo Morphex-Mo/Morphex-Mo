@@ -83,6 +83,13 @@
 
 ---
 
+## 🌐 多言語紹介
+> 他言語バージョンもぜひご覧ください  
+> View in other languages:  
+> [English](README.md) | [中文](README.zh.md) | [日本語](README.jp.md)
+
+---
+
 ### つながって影響力のあるものを構築しましょう！ 🤝  
 
 <div align="center">
@@ -97,11 +104,6 @@
   <br>
   
   ![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg#gh-dark-mode-only)
-
-  
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.gif" alt="Snake Animation" width="100%">
   
   <br><br>
   
