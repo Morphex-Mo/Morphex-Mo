@@ -240,6 +240,11 @@ TypeScript   0 secs          🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵�
   ![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg#gh-dark-mode-only)
   
   <br><br>
+
+  <br>
+
+  ![Morphex-Mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morphex-Mo&show_icons=true&theme=vue-dark)
   
+  <br><br>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lvdGh0bG9qZ3VnZzlmdnY2djduaXBmaGl1cm1tMWluMHRmcjczYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" alt="魔王邪眼小鸟游六花" width="300">
 </div>
