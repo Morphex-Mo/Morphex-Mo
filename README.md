@@ -233,7 +233,7 @@ TypeScript   0 secs          🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵�
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmNXhmbG93ZDB1Mms0eGFqMHZpZXhsZzV0d2lycDI4d3I3Y3ZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="明日香跳舞" width="300">
   <br><br>
   <!-- 推荐只保留一次 Stats 卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyMo0310&show_icons=true&theme=vue-dark" alt="GitHub Stats" width="400">
+  [![M0rphex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morphex-Mo)](https://github.com/Morphex-Mo/github-readme-stats)
   <br>
   
   ![GitHub Contribution Snake](https://raw.githubusercontent.com/TonyMo0310/TonyMo0310/output/snake.svg#gh-dark-mode-only)
