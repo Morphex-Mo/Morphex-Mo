@@ -207,7 +207,24 @@ Basketball 🏀, Badminton 🏸, Swimming 🏊‍♂️, Late-night football ⚽
 ---
 
 <!--START_SECTION:waka-->
-<!-- 以下は過去7日間のWakaTime統計です。Actionにより自動更新 -->
+
+```txt
+From: 09 February 2026 - To: 16 February 2026
+
+Total Time: 2 hrs 34 mins
+
+Java         1 hr 17 mins    🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   46.84 %
+JavaScript   1 hr 2 mins     🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   37.80 %
+Other        11 mins         🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   06.70 %
+Markdown     11 mins         🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   06.67 %
+CSS          1 min           🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   01.11 %
+Python       0 secs          🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.50 %
+JSON         0 secs          🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.16 %
+GLSL         0 secs          🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.09 %
+HTML         0 secs          🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.07 %
+TypeScript   0 secs          🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.06 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
