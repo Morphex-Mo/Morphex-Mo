@@ -106,20 +106,20 @@ Let's connect and build something impactful! 🤝
   <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2025 - To: 14 February 2026
+From: 28 May 2025 - To: 15 February 2026
 
-Total Time: 4 hrs 16 mins
+Total Time: 4 hrs 23 mins
 
-Java         2 hrs 59 mins   ████████████████▓░░░░░░░░   67.32 %
-JavaScript   55 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-C++          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Java         2 hrs 59 mins   ████████████████▒░░░░░░░░   65.51 %
+JavaScript   1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+C++          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 GLSL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
