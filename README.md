@@ -28,8 +28,6 @@
 ##### 2025
 - **Danmaku-Style STG Game Development | PolyU** (12/2025)  
   *Collaborated with peers to design and develop a Unity bullet-hell game. Wrote battle UI and Enemy Spawn System. Achieved a high grade.*
-- **Nearest Neighbor Image Resizing Research | SUSTech** (12/2025)  
-  *Used C++/OpenCV to implement multi-threaded, scale-free, channel-adaptive image resizing.*
 - **A 30s 3D animation with GLSL/JavaScript | PolyU** (11/2025)  
   *Created a 30s WebGL animation about a star collector. Responsible for star logic. Full score project.*
 - **Cross-Cultural Translation AI | PolyU** (11/2025)  
@@ -44,6 +42,8 @@
   *Compared insert speeds across Python/Java/C++, used multithread/batch/direct strategies on OpenGauss, MySQL, PostgreSQL.*
 
 ##### 2024
+- **Nearest Neighbor Image Resizing Research | SUSTech** (12/2024)  
+  *Used C++/OpenCV to implement multi-threaded, scale-free, channel-adaptive image resizing.*
 - **Range Hood Control System Simulation | SUSTech** (12/2024)  
   *Teamed up to simulate a Verilog-based range hood controller. Implemented timer, status control, etc.*
 - **Java-Based ID Scanner Demo | Zonerich Internship** (08/2024)  
@@ -90,8 +90,6 @@
 ##### 2025
 - **弹幕风格游戏开发 | PolyU** （2025.12）  
   *与同伴协作基于Unity开发弹幕（STG）游戏，负责战斗UI与敌人生成系统，成绩优异。*
-- **最近邻插值图片缩放研究 | SUSTech** （2025.12）  
-  *基于C++/OpenCV实现多线程、多通道任意缩放的高效图像插值算法。*
 - **三十秒3D动画项目 | PolyU** （2025.11）  
   *采用GLSL/WebGL + JS创作以星星收集为主题30秒交互动画，负责星星部分，满分结项。*
 - **跨文化翻译AI项目 | PolyU** （2025.11）  
@@ -106,6 +104,8 @@
   *比较Python/Java/C++多线程/批处理/直插不同数据库（OpenGauss/MySQL/PostgreSQL）导入速度。*
 
 ##### 2024
+- **最近邻插值图片缩放研究 | SUSTech** （2024.12）  
+  *基于C++/OpenCV实现多线程、多通道任意缩放的高效图像插值算法。*
 - **抽油烟机控制系统仿真 | SUSTech** （2024.12）  
   *团队合作Verilog实现定时/状态/功能全的抽油烟机控制器仿真。*
 - **Java身份识别扫描仪演示 | 众联实习生** （2024.08）  
@@ -152,8 +152,6 @@
 ##### 2025年
 - **弾幕型STGゲーム開発 | PolyU** （2025年12月）  
   *Unityにて弾幕ゲームを開発。バトルUI・敵出現システム担当。高成績評価。*
-- **最近傍法画像リサイズ研究 | SUSTech** （2025年12月）  
-  *C++/OpenCVによるマルチスレッド・多チャンネル・動的スケール対応画像リサイズ実装。*
 - **30秒3Dアニメ制作 | PolyU** （2025年11月）  
   *GLSL/WebGL+JSによる星の収集者物語。星のエフェクト部分担当。満点プロジェクト。*
 - **異文化翻訳AI | PolyU** （2025年11月）  
@@ -168,6 +166,8 @@
   *Python/Java/C++＋スレッド・バッチ等の手法でDB（OpenGauss/MySQL/PostgreSQL）速度比較。*
 
 ##### 2024年
+- **最近傍法画像リサイズ研究 | SUSTech** （2024年12月）  
+  *C++/OpenCVによるマルチスレッド・多チャンネル・動的スケール対応画像リサイズ実装。*
 - **レンジフード制御システム | SUSTech** （2024年12月）  
   *Verilogで全機能モデルをチーム開発。タイマー/状態制御など全対応。*
 - **JavaベースIDスキャナデモ | Zonerichインターン** （2024年8月）  
