@@ -10,7 +10,7 @@ jobs:
     permissions:  # 加这一行，给 GITHUB_TOKEN 写权限（关键！）
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
