@@ -6,7 +6,7 @@
 
 我的个人博客（My blog）  
 https://morphex-mo.github.io/  
-Feel free to visit my blog (May need 5s to load)!
+Feel free to visit my blog (May need several second to load)!
 
 <!--START_SECTION:waka-->
 
