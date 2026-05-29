@@ -10,16 +10,12 @@
   <div>
     <img src="https://github-readme-stats-three-zeta-95.vercel.app/api?username=Morphex-Mo&show_icons=true&theme=vue-dark" alt="GitHub Stats" width="400" style="max-width: 100%; height: auto;">
   </div>
-  <!-- 右侧：博客链接 + 自我介绍 -->
+  <!-- 右侧：自我介绍 + 经历链接 -->
   <div style="text-align: left; max-width: 400px;">
-    <strong>📝 我的个人博客（My blog）</strong><br>
-    <a href="https://morphex-mo.github.io/">https://morphex-mo.github.io/</a><br>
-    <em>Feel free to visit my blog (May need several second to load)!</em><br><br>
     <strong>👤 我的个人介绍和经历（self introduction）</strong><br>
     <a href="https://morphex-mo.github.io/about/">https://morphex-mo.github.io/about/</a>
   </div>
 </div>
-
 
   
 <!-- 居中显示的徽章（访问量 + GitHub 年限） -->
