@@ -24,10 +24,18 @@
   
 <!-- 居中显示的徽章（访问量 + GitHub 年限） -->
 <div align="center" style="margin-top: 20px;">
-[![Visits Badge](https://badges.pufler.dev/visits/Morphex-Mo/Morphex-Mo)](https://github.com/Morphex-Mo)
-[![Years Badge](https://badges.pufler.dev/years/Morphex-Mo)](https://github.com/Morphex-Mo)
-[![Email Badge](https://img.shields.io/badge/Email-12311805%40mail.sustech.edu.cn-blue?style=flat&logo=gmail)](mailto:12311805@mail.sustech.edu.cn)
-[![Blog Badge](https://img.shields.io/badge/Blog-Morphex's%20BLOG-orange?style=flat&logo=hexo)](https://morphex-mo.github.io)
+  <a href="https://github.com/Morphex-Mo">
+    <img src="https://badges.pufler.dev/visits/Morphex-Mo/Morphex-Mo" alt="Visits Badge" style="display: inline-block; margin: 0 8px;">
+  </a>
+  <a href="https://github.com/Morphex-Mo">
+    <img src="https://badges.pufler.dev/years/Morphex-Mo" alt="Years Badge" style="display: inline-block; margin: 0 8px;">
+  </a>
+  <a href="mailto:12311805@mail.sustech.edu.cn">
+    <img src="https://img.shields.io/badge/Email-12311805%40mail.sustech.edu.cn-blue?style=flat&logo=gmail" alt="Email Badge" style="display: inline-block; margin: 0 8px;">
+  </a>
+  <a href="https://morphex-mo.github.io">
+    <img src="https://img.shields.io/badge/Blog-Morphex's%20BLOG-orange?style=flat&logo=hexo" alt="Blog Badge" style="display: inline-block; margin: 0 8px;">
+  </a>
 </div>
 <!--START_SECTION:waka-->
 
