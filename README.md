@@ -26,6 +26,7 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://badges.pufler.dev/visits/Morphex-Mo/Morphex-Mo" alt="Visits Badge" style="display: inline-block; margin: 0 8px;">
   <img src="https://badges.pufler.dev/years/Morphex-Mo" alt="Years Badge" style="display: inline-block; margin: 0 8px;">
+  [![Blog Badge](https://img.shields.io/badge/Blog-ZED's%20BLOG-orange?style=flat&logo=hexo)](https://morphex-mo.github.io)
 </div>
 <!--START_SECTION:waka-->
 
