@@ -19,7 +19,8 @@
     <a href="https://morphex-mo.github.io/about/">https://morphex-mo.github.io/about/</a>
   </div>
 </div>
-
+[![Visits Badge](https://badges.pufler.dev/visits/Morphex-Mo/Morphex-Mo)](https://github.com/Morphex-Mo)
+[![Years Badge](https://badges.pufler.dev/years/Morphex-Mo)](https://github.com/Morphex-Mo)
 <!--START_SECTION:waka-->
 
 ```txt
