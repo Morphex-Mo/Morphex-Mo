@@ -15,12 +15,16 @@
     <strong>📝 我的个人博客（My blog）</strong><br>
     <a href="https://morphex-mo.github.io/">https://morphex-mo.github.io/</a><br>
     <em>Feel free to visit my blog (May need several second to load)!</em><br><br>
-    <strong>👤 我的个人介绍和经历(self introduction)</strong><br>
+    <strong>👤 我的个人介绍和经历（self introduction）</strong><br>
     <a href="https://morphex-mo.github.io/about/">https://morphex-mo.github.io/about/</a>
   </div>
-</div>  
-[![Profile Views](https://komarev.com/ghpvc/?username=Morphex-Mo&style=flat-square&color=bf91f3)](https://github.com/Morphex-Mo)  
-[![GitHub Created](https://img.shields.io/github/created-at/Morphex-Mo/Morphex-Mo?label=Profile%20Created&style=flat-square&color=bf91f3)](https://github.com/Morphex-Mo)  
+</div>
+
+<!-- 居中显示的徽章（访问量 + GitHub 年限） -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://badges.pufler.dev/visits/Morphex-Mo/Morphex-Mo" alt="Visits Badge" style="display: inline-block; margin: 0 8px;">
+  <img src="https://badges.pufler.dev/years/Morphex-Mo" alt="Years Badge" style="display: inline-block; margin: 0 8px;">
+</div>
 <!--START_SECTION:waka-->
 
 ```txt
