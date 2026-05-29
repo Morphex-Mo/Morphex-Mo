@@ -18,9 +18,9 @@
     <strong>👤 我的个人介绍和经历(self introduction)</strong><br>
     <a href="https://morphex-mo.github.io/about/">https://morphex-mo.github.io/about/</a>
   </div>
-</div>
-[![Visits Badge](https://badges.pufler.dev/visits/Morphex-Mo/Morphex-Mo)](https://github.com/Morphex-Mo)
-[![Years Badge](https://badges.pufler.dev/years/Morphex-Mo)](https://github.com/Morphex-Mo)
+</div>  
+[![Profile Views](https://komarev.com/ghpvc/?username=Morphex-Mo&style=flat-square&color=bf91f3)](https://github.com/Morphex-Mo)  
+[![GitHub Created](https://img.shields.io/github/created-at/Morphex-Mo/Morphex-Mo?label=Profile%20Created&style=flat-square&color=bf91f3)](https://github.com/Morphex-Mo)  
 <!--START_SECTION:waka-->
 
 ```txt
