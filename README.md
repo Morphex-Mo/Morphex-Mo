@@ -36,15 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2026 - To: 02 June 2026
+From: 28 May 2026 - To: 04 June 2026
 
-Total Time: 2 hrs 47 mins
+Total Time: 2 hrs 46 mins
 
-TeX        1 hr 15 mins          🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   43.80 %
-Python     45 mins               🔴🔴🔴🔴🔴🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   26.63 %
-Markdown   45 mins               🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   26.26 %
-Other      5 mins                🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   03.25 %
-Perl       0 secs                🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.06 %
+TeX        1 hr 15 mins          🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   44.10 %
+Python     45 mins               🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   26.42 %
+Markdown   45 mins               🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   26.21 %
+Other      5 mins                🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   03.26 %
 ```
 
 <!--END_SECTION:waka-->
