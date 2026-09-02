@@ -36,16 +36,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Total Time: 3 hrs 37 mins
+Total Time: 3 hrs 13 mins
 
-Python      1 hr 53 mins          🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   43.28 %
-Markdown    1 hr 27 mins          🔴🔴🔴🔴🔴🔴🔴🔴🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   33.22 %
-Other       44 mins               🔴🔴🔴🔴🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   17.13 %
-YAML        15 mins               🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   05.85 %
-Shell       0 secs                🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.29 %
-Batchfile   0 secs                🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.22 %
+Python      1 hr 42 mins          🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   48.90 %
+Markdown    1 hr 14 mins          🔴🔴🔴🔴🔴🔴🔴🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   35.45 %
+Other       16 mins               🔴🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   07.99 %
+YAML        15 mins               🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   07.30 %
+Shell       0 secs                🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.37 %
+Batchfile   0 secs                🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.00 %
 ```
 
 <!--END_SECTION:waka-->
