@@ -36,17 +36,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-Total Time: 5 hrs 3 mins
+Total Time: 5 hrs 23 mins
 
-Markdown     2 hrs 46 mins         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   46.59 %
-Python       1 hr 31 mins          🔴🔴🔴🔴🔴🔴🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   25.44 %
-Other        54 mins               🔴🔴🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   15.15 %
-TeX          16 mins               🔴🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   04.66 %
-SSH Config   13 mins               🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   03.84 %
-CSV          10 mins               🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   02.87 %
-Text         4 mins                🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   01.39 %
+Markdown     2 hrs 58 mins         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   46.08 %
+Python       1 hr 39 mins          🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   25.73 %
+Other        1 hr 3 mins           🔴🔴🔴🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   16.32 %
+TeX          16 mins               🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   04.31 %
+SSH Config   13 mins               🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   03.56 %
+CSV          10 mins               🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   02.66 %
+Text         4 mins                🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   01.29 %
 Mason        0 secs                🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.05 %
 ```
 
