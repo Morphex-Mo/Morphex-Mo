@@ -36,18 +36,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2026 - To: 16 October 2026
+From: 10 October 2026 - To: 17 October 2026
 
-Total Time: 6 hrs 15 mins
+Total Time: 5 hrs 5 mins
 
-Python       2 hrs 15 mins         🔴🔴🔴🔴🔴🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   26.71 %
-Other        2 hrs 11 mins         🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   25.90 %
-Markdown     1 hr 54 mins          🔴🔴🔴🔴🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   22.57 %
-Bash         1 hr 31 mins          🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   17.99 %
-TeX          22 mins               🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   04.36 %
-JSON         5 mins                🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   01.08 %
-SSH Config   3 mins                🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.71 %
-YAML         3 mins                🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.67 %
+Other        3 hrs 53 mins         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   43.31 %
+Markdown     2 hrs 22 mins         🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   26.38 %
+Python       1 hr 36 mins          🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   17.85 %
+TeX          22 mins               🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   04.12 %
+SSH Config   15 mins               🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   02.92 %
+Text         12 mins               🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   02.33 %
+JSON         8 mins                🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   01.55 %
+Bash         8 mins                🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   01.54 %
 ```
 
 <!--END_SECTION:waka-->
