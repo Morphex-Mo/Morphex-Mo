@@ -36,18 +36,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2026 - To: 07 November 2026
+From: 01 November 2026 - To: 08 November 2026
 
-Total Time: 3 hrs 38 mins
+Total Time: 2 hrs 19 mins
 
-Markdown     2 hrs 18 mins         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   49.79 %
-Other        59 mins               🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   21.56 %
-PowerShell   38 mins               🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   13.80 %
-Python       28 mins               🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   10.31 %
-TeX          8 mins                🟠🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   02.94 %
-PHP          2 mins                🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.76 %
-JSON         1 min                 🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.58 %
-SSH Config   0 secs                🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.27 %
+Markdown   1 hr 47 mins          🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   53.68 %
+Other      59 mins               🔴🔴🔴🔴🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   30.08 %
+Python     28 mins               🔴🔴🔴🟡🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   14.37 %
+PHP        2 mins                🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   01.05 %
+JSON       1 min                 🟢🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵   00.81 %
 ```
 
 <!--END_SECTION:waka-->
