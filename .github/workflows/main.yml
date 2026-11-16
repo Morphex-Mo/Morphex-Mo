@@ -11,7 +11,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Validate WakaTime API key
+        id: validate-wakatime
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          if [ -z "$WAKATIME_API_KEY" ]; then
+            echo "::warning::WAKATIME_API_KEY is not configured. Skipping WakaTime README update."
+            echo "valid=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          status_code="$(curl -sS -o /dev/null -w "%{http_code}" -u "$WAKATIME_API_KEY:" "https://wakatime.com/api/v1/users/current/stats/last_7_days")"
+          if [ "$status_code" != "200" ]; then
+            echo "::warning::WakaTime API key check failed with HTTP $status_code. Skipping WakaTime README update."
+            echo "valid=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "valid=true" >> "$GITHUB_OUTPUT"
+
       - uses: athul/waka-readme@master
+        if: steps.validate-wakatime.outputs.valid == 'true'
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
